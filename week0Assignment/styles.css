@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    width: 10%;
+}
+
+.nav > a {
+    margin: 5px;
+}
+
+#main-img {
+    width: 60%;
+    margin: 50px;
+}
+
+.content {
+    align-items: center;
+    justify-content: center;
+}
+
